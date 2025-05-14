@@ -29,7 +29,7 @@ const services = [
 
 const Service = () => {
   useEffect(() => {
-    document.title = 'Malik Technical | Our Services';
+    document.title = ' Our Services';
   }, []);
 
   return (
