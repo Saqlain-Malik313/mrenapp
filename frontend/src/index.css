@@ -203,9 +203,6 @@ a.active {
   }
 }
 
-/***** End Hero  *****/
-
-/***** analytics Section *****/
 
 .section-analytics {
   margin: 9.6rem 0;
@@ -227,7 +224,7 @@ a.active {
       }
       & h2 {
         font-size: 4.8rem;
-        @media (max-width:700px) {
+        @media (max-width:800px) {
           font-size:small;
           font-weight: bold;
           display: flex;
