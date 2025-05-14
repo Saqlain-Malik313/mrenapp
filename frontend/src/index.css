@@ -227,7 +227,7 @@ a.active {
       }
       & h2 {
         font-size: 4.8rem;
-        @media (max-width:600px) {
+        @media (max-width:700px) {
           font-size:small;
           font-weight: bold;
           display: flex;
